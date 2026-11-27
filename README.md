@@ -1,6 +1,8 @@
 # Learner Hours PWA
 A progressive web app designed for learner drivers to record and keep track of the hours they drive.
 
+<img src="screenshot.png">
+
 ## Features
 - Record individual driving sessions locally
 - Automatically track accumulated driving hours
